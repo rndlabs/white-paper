@@ -1,2 +1,2 @@
 # whitepaper
-rndlabs white paper
+rndlabs white paper (draft)
